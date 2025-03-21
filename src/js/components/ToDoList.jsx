@@ -61,7 +61,7 @@ const ToDoList = () => {
             ))
           )}
         </ul>
-        <span style={{color:"grey",fontSize:"14px"}}>Tasks: {tasks.length}</span>
+        <span style={{color:"grey",fontSize:"14px"}}>Pending tasks: {tasks.length}</span>
       </div>
     </div>
   );
